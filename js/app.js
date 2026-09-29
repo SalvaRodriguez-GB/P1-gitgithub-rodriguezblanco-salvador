@@ -1,3 +1,4 @@
+//Añado un comentario simplemente para poder hacer un commit para la tarea
 const discoverButton = document.querySelector("#discover-button");
 const routesSection = document.querySelector("#rutas");
 const routeFilter = document.querySelector("#route-filter");
