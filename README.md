@@ -13,9 +13,24 @@ Andalucía. Permite filtrar las propuestas por categoría y marcar rutas como fa
 
 ## Tecnologías utilizadas
 
+**Título del proyecto:** Práctica 4 de Despliegue de aplicaciones.
+
+## Descripción
+
+Esto es un archivo markdown con el objetivo de hacer la práctica número 4 de esta asignatura.
+
+## Tecnologías utilizadas
+
 - HTML5 para la estructura y el contenido.
 - CSS3 para el diseño adaptable.
 - JavaScript para el filtrado y la selección de favoritos.
+
+## Pequeño Bloque de código
+
+```javascript
+const saludo = "Hola";
+console.log(saludo);
+```
 
 ## Estructura del proyecto
 
