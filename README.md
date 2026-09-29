@@ -24,6 +24,7 @@ Esto es un archivo markdown con el objetivo de hacer la práctica número 4 de e
 - HTML5 para la estructura y el contenido.
 - CSS3 para el diseño adaptable.
 - JavaScript para el filtrado y la selección de favoritos.
+- OpenAi (ChatGPT para consulta de dudas).
 
 ## Pequeño Bloque de código
 
